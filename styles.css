@@ -90,7 +90,7 @@ section.about p {
 }
 
 .projects h1 {
-  width: 100%;
+  width: 80%;
   flex-basis: 100%;
   text-align: center;
   margin: 1em;
@@ -98,7 +98,7 @@ section.about p {
 
 .project {
   display: block;
-  width: 100%;
+  width: 80%;
   background: red;
   margin-bottom: 20px;
   height: 200px;
